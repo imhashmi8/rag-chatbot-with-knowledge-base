@@ -27,3 +27,10 @@ python -m implementation.ingest
 
 # 4. Launch the chatbot
 python app.py
+```
+
+## Demo
+
+The chatbot answers questions from the knowledge base and shows the retrieved source context alongside each response:
+
+![Insurellm Expert Assistant — chat with retrieved context](docs/chat-demo.png)
